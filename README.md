@@ -148,7 +148,7 @@ So what do we do when we need the work product of one job in another? We can use
 
 To upload artifacts to the artifact storage, we can use an action built by GitHub: [`actions/upload-artifacts`](https://github.com/actions/upload-artifact).
 
-### :keyboard: Activity: Upload test reports
+_:keyboard:_ Activity: Upload test reports
 
 1. Edit your workflow file.
 1. Add a step to your `build` job that uses the `upload-artifacts` action.
